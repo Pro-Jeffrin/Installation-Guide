@@ -3,3 +3,6 @@
 Installation steps:
 i) wget https://release.gitkraken.com/linux/gitkraken-amd64.deb
 ii) dpkg -i gitkraken-amd64.deb
+
+Reference:
+https://support.gitkraken.com/how-to-install
