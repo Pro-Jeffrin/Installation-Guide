@@ -1,2 +1,2 @@
 # Installation-Guides
-Here you can find all Popular packages installation notes!
+Here you will find some of the popular packages's installation notes!
